@@ -15,3 +15,7 @@ A simple Node.js application to send Swift payout to international customers usi
 - Open a terminal in the cloned directory and run "npm install"
 - In the same terminal window, run "nodemon index.js".
 - Turn on your browser and go to "http://localhost:3000"
+
+## Get Support
+* https://community.rapyd.net
+* https://support.rapyd.net
